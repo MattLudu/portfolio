@@ -204,7 +204,7 @@
               <mxPoint x="350" y="655" />
               <mxPoint x="350" y="775" />
             </Array>
-          </mxGeometry>
+          </mxGeometry> 
         </mxCell>
         <mxCell id="g7mQZnRVp9RbRPwMtFKD-68" value="PJ" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="635" width="60" height="40" as="geometry" />
